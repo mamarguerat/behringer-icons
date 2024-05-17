@@ -8,12 +8,12 @@
     }
   </style>
   <g id="icon" stroke-width="2" class="stroke" fill="none">
-    <rect x="27" y="17" width="10" height="10" rx="2" />
-    <rect x="11" y="37" width="10" height="10" rx="2" />
-    <rect x="27" y="37" width="10" height="10" rx="2" />
-    <rect x="43" y="37" width="10" height="10" rx="2" />
-    <line x1="32" y1="27" x2="32" y2="37" />
-    <line x1="21" y1="42" x2="27" y2="42" />
-    <line x1="37" y1="42" x2="43" y2="42" />
+    <rect fill="none" x="27" y="17" width="10" height="10" rx="2" />
+    <rect fill="none" x="11" y="37" width="10" height="10" rx="2" />
+    <rect fill="none" x="27" y="37" width="10" height="10" rx="2" />
+    <rect fill="none" x="43" y="37" width="10" height="10" rx="2" />
+    <line fill="none" x1="32" y1="27" x2="32" y2="37" />
+    <line fill="none" x1="21" y1="42" x2="27" y2="42" />
+    <line fill="none" x1="37" y1="42" x2="43" y2="42" />
   </g>
 </svg>

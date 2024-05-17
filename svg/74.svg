@@ -10,7 +10,7 @@
   <g id="icon" stroke-width="2" class="stroke" fill="none">
     <circle class="fill" r="1.5" cx="26.5" cy="28" />
     <circle class="fill" r="1.5" cx="37.5" cy="28" />
-    <circle r="17" cx="32" cy="32" />
-    <path d="M 38 36 A 7 7 0 0 1 26 36" />
+    <circle fill="none" r="17" cx="32" cy="32" />
+    <path fill="none" d="M 38 36 A 7 7 0 0 1 26 36" />
   </g>
 </svg>
