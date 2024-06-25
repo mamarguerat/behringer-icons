@@ -12,7 +12,6 @@
       <ellipse class="fill" rx="16" ry="3" cx="32" cy="30" />
       <path fill="none" d="M16 30L16 59 12 63 12 67" />
       <path fill="none" d="M48 30L48 59 52 63 52 67" />
-      <line fill="none" x1="48" y1="30" x2="48" y2="59" />
       <path fill="none" d="M16 50A16 3 0 0048 50" />
     </g>
   </g>

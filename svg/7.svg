@@ -1,0 +1,21 @@
+<svg width="64px" height="64px" viewBox="10 10 44 44" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .stroke {
+      stroke: #000000;
+    }
+    .fill {
+      fill: #000000;
+    }
+  </style>
+  <g id="icon" stroke-width="2" class="stroke" fill="none">
+    <g transform="translate(0 -14)">
+      <ellipse class="fill" rx="14.5" ry="3" cx="32" cy="31" />
+      <line fill="none" x1="17.5" y1="31" x2="17.5" y2="49" />
+      <line fill="none" x1="46.5" y1="31" x2="46.5" y2="49" />
+      <path fill="none" d="M17.5 49A14.5 3 0 0046.5 49" />
+      <line fill="none" stroke-width="4" x1="32" y1="25" x2="32" y2="30" />
+      <line fill="none" stroke-width="4" x1="32" y1="52" x2="32" y2="67" />
+      <path fill="none" d="M29 48 29 41 32 45 35 41 35 48" />
+    </g>
+  </g>
+</svg>
