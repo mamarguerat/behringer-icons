@@ -1,0 +1,26 @@
+<svg width="64px" height="64px" viewBox="10 10 44 44" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .stroke {
+      stroke: #000000;
+    }
+    .fill {
+      fill: #000000;
+    }
+  </style>
+  <g id="icon" stroke-width="2" class="stroke" fill="none">
+    <rect fill="none" x="12" y="15.5" width="40" height="37" rx="1" />
+    <path d="M26 15.5 26 13C26 12 27 12 27 12L37 12C38 12 38 13 38 13L38 15.5" />
+    <line x1="12" y1="24.5" x2="52" y2="24.5" />
+    <circle class="fill" r="0.6" cx="41.75" cy="20" />
+    <circle class="fill" r="0.6" cx="47.5" cy="20" />
+    <circle class="fill" r="0.6" cx="17.5" cy="20" />
+    <circle class="fill" r="0.6" cx="22.75" cy="20" />
+    <circle class="fill" r="0.6" cx="28" cy="20" />
+    <circle class="fill" r="0.6" cx="32" cy="33" />
+    <circle class="none" r="4" cx="32" cy="33" />
+    <circle class="fill" r="0.6" cx="22.5" cy="42.5" />
+    <circle class="none" r="5.5" cx="22.5" cy="42.5" />
+    <circle class="fill" r="0.6" cx="41.5" cy="42.5" />
+    <circle class="none" r="5.5" cx="41.5" cy="42.5" />
+  </g>
+</svg>
