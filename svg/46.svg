@@ -1,0 +1,13 @@
+<svg width="64px" height="64px" viewBox="10 10 44 44" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .stroke {
+      stroke: #000000;
+    }
+    .fill {
+      fill: #000000;
+    }
+  </style>
+  <g id="icon" stroke-width="2" class="stroke" fill="none">
+    <text x="32" y="32" style="font: 8px verdana;" text-anchor="middle">NO ICON</text>
+  </g>
+</svg>
