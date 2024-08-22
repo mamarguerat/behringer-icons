@@ -8,6 +8,22 @@
     }
   </style>
   <g id="icon" stroke-width="2" class="stroke" fill="none">
-    <text x="32" y="32" style="font: 8px verdana;" text-anchor="middle">NO ICON</text>
+    <rect fill="none" x="12" y="12" width="40" height="40" rx="1" />
+    <line x1="12" y1="30.5" x2="52" y2="30.5" />
+    <rect fill="none" x="15.5" y="15.5" width="14" height="6.5" rx="1" />
+    <circle class="fill" r="1" cx="16.5" cy="26" />
+    <circle class="fill" r="1" cx="22.5" cy="26" />
+    <circle class="fill" r="1" cx="28.5" cy="26" />
+    <rect fill="none" x="40" y="19" width="4" height="4" rx="0.5" />
+    <rect class="fill" x="41" y="14.5" width="2" height="2" rx="0.5" />
+    <rect class="fill" x="46.5" y="20" width="2" height="2" rx="0.5" />
+    <rect class="fill" x="41" y="25.5" width="2" height="2" rx="0.5" />
+    <rect class="fill" x="35.5" y="20" width="2" height="2" rx="0.5" />
+    <path class="fill" d="M14.75 31 14.75 49A.5.5 0 0015.25 49.5L17.25 49.5A.5.5 0 0017.75 49L17.75 44.5A.75.75 0 0117 43.75L17 31Z" />
+    <path class="fill" d="M21.75 31 21.75 43.75A.75.75 0 0121 44.5L21 49A.5.5 0 0021.5 49.5L23.5 49.5A.5.5 0 0024 49L24 44.5A.75.75 0 0123.25 43.75L23.25 31Z" />
+    <path class="fill" d="M28 31 28 43.75A.75.75 0 0127.25 44.5L27.25 49A.5.5 0 0027.75 49.5L29.75 49.5A.5.5 0 0030.25 49L30.25 31Z" />
+    <path class="fill" d="M33.75 31 33.75 49A.5.5 0 0034.25 49.5L36.25 49.5A.5.5 0 0036.75 49L36.75 44.5A.75.75 0 0136 43.75L36 31Z" />
+    <path class="fill" d="M40.75 31 40.75 43.75A.75.75 0 0140 44.5L40 49A.5.5 0 0040.5 49.5L42.5 49.5A.5.5 0 0043 49L43 44.5A.75.75 0 0142.25 43.75L42.25 31Z" />
+    <path class="fill" d="M47 31 47 43.75A.75.75 0 0146.25 44.5L46.25 49A.5.5 0 0046.75 49.5L48.75 49.5A.5.5 0 0049.25 49L49.25 31Z" />
   </g>
 </svg>
