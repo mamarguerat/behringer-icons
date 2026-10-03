@@ -7,7 +7,9 @@
       fill: #000000;
     }
   </style>
-  <g id="icon" stroke-width="2" class="stroke" fill="none">
-    <text x="32" y="32" style="font: 8px verdana;" text-anchor="middle">NO ICON</text>
+  <g id="icon" stroke-width="2.25" class="stroke" fill="none">
+    <rect x="13.25" y="34" width="37.25" height="14.25" rx="1" />
+    <path d="M43 33 43 26C43 23.5 41.5 22 39.25 21" />
+    <circle r="3.5" cx="36.75" cy="18.5" />
   </g>
 </svg>

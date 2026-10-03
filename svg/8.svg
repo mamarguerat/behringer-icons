@@ -7,12 +7,12 @@
       fill: #000000;
     }
   </style>
-  <g id="icon" stroke-width="2" class="stroke" fill="none">
+  <g id="icon" stroke-width="2.5" class="stroke" fill="none">
     <g transform="translate(0 -14)">
-      <ellipse class="fill" rx="16" ry="3" cx="32" cy="30" />
-      <path fill="none" d="M16 30L16 59 12 63 12 67" />
-      <path fill="none" d="M48 30L48 59 52 63 52 67" />
-      <path fill="none" d="M16 50A16 3 0 0048 50" />
+      <ellipse class="fill" rx="15.5" ry="2.5" cx="32" cy="30" />
+      <path fill="none" d="M16.5 30L16.5 58.25 12 63 12 66.5" />
+      <path fill="none" d="M47.75 30L47.75 58.25 52 63 52 66.5" />
+      <path fill="none" d="M16.5 49A13.5 3 0 0047.75 49" />
     </g>
   </g>
 </svg>

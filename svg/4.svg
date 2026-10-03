@@ -7,19 +7,19 @@
       fill: #000000;
     }
   </style>
-  <g id="icon" stroke-width="2" class="stroke" fill="none">
+  <g id="icon" stroke-width="2.25" class="stroke" fill="none">
     <g>
       <circle class="fill" r="1" cx="51.5" cy="20" />
-      <line fill="none" x1="11" y1="20" x2="51.5" y2="20" />
-      <circle class="fill" r="1" cx="44.5" cy="15" />
-      <line fill="none" x1="11" y1="15" x2="44.5" y2="15" />
+      <line fill="none" x1="10.5" y1="20" x2="51.5" y2="20" />
+      <circle class="fill" r="1" cx="44.5" cy="14.75" />
+      <line fill="none" x1="10.5" y1="14.75" x2="44.5" y2="14.75" />
     </g>
     <g>
-      <ellipse class="fill" rx="19" ry="4" cx="32" cy="31" />
-      <line fill="none" x1="13" y1="31" x2="13" y2="47" />
-      <line fill="none" x1="51" y1="31" x2="51" y2="47" />
-      <path class="fill" d="M13 36A19 4 0 0051 36L51 42A19 4 0 0113 42Z" />
-      <path fill="none" d="M13 47A19 4 0 0051 47" />
+      <ellipse class="fill" rx="18.75" ry="3.5" cx="32" cy="30.75" />
+      <line fill="none" x1="13.25" y1="30.75" x2="13.25" y2="47" />
+      <line fill="none" x1="50.75" y1="30.75" x2="50.75" y2="47" />
+      <path class="fill" d="M13.25 36A18.75 3.5 0 0050.75 36L50.75 41.75A18.75 3.5 0 0113.25 41.75Z" />
+      <path fill="none" d="M13.25 47A18.75 3.5 0 0050.75 47" />
     </g>
   </g>
 </svg>

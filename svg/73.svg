@@ -7,21 +7,21 @@
       fill: #000000;
     }
   </style>
-  <g id="icon" stroke-width="2" class="stroke" fill="none">
-    <circle class="fill" r="1.5" cx="47.5" cy="26.5" />
-    <circle class="fill" r="1.5" cx="47.5" cy="34.25" />
-    <circle class="fill" r="1.5" cx="47.5" cy="42" />
-    <circle class="fill" r="1.5" cx="47.5" cy="49.75" />
-    <path class="fill" stroke="none" d="M 44 13 L 53 16.5 L 44 20 L 46 16.5" />
+  <g id="icon" stroke-width="2.5" class="stroke" fill="none">
+    <circle class="fill" r="1.25" cx="47.25" cy="26.5" />
+    <circle class="fill" r="1.25" cx="47.25" cy="34" />
+    <circle class="fill" r="1.25" cx="47.25" cy="41.5" />
+    <circle class="fill" r="1.25" cx="47.25" cy="49" />
+    <path class="fill" stroke="none" d="M44 12.5 53 16.5 44 20.5 46 16.5Z" />
     
-    <line fill="none" x1="19" y1="16.5" x2="19" y2="50" />
-    <line fill="none" x1="29" y1="16.5" x2="29" y2="34.5" />
-    <line fill="none" x1="39" y1="16.5" x2="39" y2="26" />
+    <line fill="none" x1="19" y1="15.5" x2="19" y2="49" />
+    <line fill="none" x1="29" y1="16.5" x2="29" y2="34" />
+    <line fill="none" x1="38.5" y1="16.5" x2="38.5" y2="26.5" />
     
-    <line fill="none" x1="16.5" y1="16.5" x2="47.5" y2="16.5" />
-    <line fill="none" x1="11" y1="26.5" x2="47.5" y2="26.5" />
-    <line fill="none" x1="11" y1="34.25" x2="47.5" y2="34.25" />
-    <line fill="none" x1="11" y1="42" x2="47.5" y2="42" />
-    <line fill="none" x1="11" y1="49.75" x2="47.5" y2="49.75" />
+    <line fill="none" x1="14.5" y1="16.5" x2="46" y2="16.5" />
+    <line fill="none" x1="10.5" y1="26.5" x2="47.25" y2="26.5" />
+    <line fill="none" x1="10.5" y1="34" x2="47.25" y2="34" />
+    <line fill="none" x1="10.5" y1="41.5" x2="47.25" y2="41.5" />
+    <line fill="none" x1="10.5" y1="49" x2="47.25" y2="49" />
   </g>
 </svg>

@@ -7,38 +7,38 @@
       fill: #000000;
     }
   </style>
-  <g id="icon" stroke-width="2" class="stroke" fill="none">
+  <g id="icon" stroke-width="2.25" class="stroke" fill="none">
     <g transform="translate(0 0)" >
-      <rect fill="none" x="12" y="12" width="40" height="10" rx="1" />
-      <circle class="fill" r="1.5" cx="38.5" cy="17.5" />
-      <circle class="fill" r="1.5" cx="46.5" cy="17.5" />
-      <circle class="fill" r="0.6" cx="17" cy="17.5" />
-      <circle class="fill" r="0.6" cx="22.25" cy="17.5" />
-      <circle class="fill" r="0.6" cx="27.5" cy="17.5" />
+      <rect fill="none" x="11.75" y="12.5" width="40.5" height="10" rx="1" />
+      <circle class="fill" stroke="none" r="2.75" cx="38.5" cy="17.5" />
+      <circle class="fill" stroke="none" r="2.75" cx="46.5" cy="17.5" />
+      <circle class="fill" stroke="none" r="1.5" cx="17" cy="17.5" />
+      <circle class="fill" stroke="none" r="1.5" cx="22.25" cy="17.5" />
+      <circle class="fill" stroke="none" r="1.5" cx="27.25" cy="17.5" />
     </g>
     <g transform="translate(0 10)" >
-      <rect fill="none" x="12" y="12" width="40" height="10" rx="1" />
-      <circle class="fill" r="1.5" cx="38.5" cy="17.5" />
-      <circle class="fill" r="1.5" cx="46.5" cy="17.5" />
-      <circle class="fill" r="0.6" cx="17" cy="17.5" />
-      <circle class="fill" r="0.6" cx="22.25" cy="17.5" />
-      <circle class="fill" r="0.6" cx="27.5" cy="17.5" />
+      <rect fill="none" x="11.75" y="12.5" width="40.5" height="10" rx="1" />
+      <circle class="fill" stroke="none" r="2.75" cx="38.5" cy="17.5" />
+      <circle class="fill" stroke="none" r="2.75" cx="46.5" cy="17.5" />
+      <circle class="fill" stroke="none" r="1.5" cx="17" cy="17.5" />
+      <circle class="fill" stroke="none" r="1.5" cx="22.25" cy="17.5" />
+      <circle class="fill" stroke="none" r="1.5" cx="27.25" cy="17.5" />
     </g>
     <g transform="translate(0 20)" >
-      <rect fill="none" x="12" y="12" width="40" height="10" rx="1" />
-      <circle class="fill" r="1.5" cx="38.5" cy="17.5" />
-      <circle class="fill" r="1.5" cx="46.5" cy="17.5" />
-      <circle class="fill" r="0.6" cx="17" cy="17.5" />
-      <circle class="fill" r="0.6" cx="22.25" cy="17.5" />
-      <circle class="fill" r="0.6" cx="27.5" cy="17.5" />
+      <rect fill="none" x="11.75" y="12.5" width="40.5" height="10" rx="1" />
+      <circle class="fill" stroke="none" r="2.75" cx="38.5" cy="17.5" />
+      <circle class="fill" stroke="none" r="2.75" cx="46.5" cy="17.5" />
+      <circle class="fill" stroke="none" r="1.5" cx="17" cy="17.5" />
+      <circle class="fill" stroke="none" r="1.5" cx="22.25" cy="17.5" />
+      <circle class="fill" stroke="none" r="1.5" cx="27.25" cy="17.5" />
     </g>
     <g transform="translate(0 30)" >
-      <rect fill="none" x="12" y="12" width="40" height="10" rx="1" />
-      <circle class="fill" r="1.5" cx="38.5" cy="17.5" />
-      <circle class="fill" r="1.5" cx="46.5" cy="17.5" />
-      <circle class="fill" r="0.6" cx="17" cy="17.5" />
-      <circle class="fill" r="0.6" cx="22.25" cy="17.5" />
-      <circle class="fill" r="0.6" cx="27.5" cy="17.5" />
+      <rect fill="none" x="11.75" y="12.5" width="40.5" height="10" rx="1" />
+      <circle class="fill" stroke="none" r="2.75" cx="38.5" cy="17.5" />
+      <circle class="fill" stroke="none" r="2.75" cx="46.5" cy="17.5" />
+      <circle class="fill" stroke="none" r="1.5" cx="17" cy="17.5" />
+      <circle class="fill" stroke="none" r="1.5" cx="22.25" cy="17.5" />
+      <circle class="fill" stroke="none" r="1.5" cx="27.25" cy="17.5" />
     </g>
   </g>
 </svg>

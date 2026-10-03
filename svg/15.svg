@@ -8,6 +8,8 @@
     }
   </style>
   <g id="icon" stroke-width="2" class="stroke" fill="none">
-    <text x="32" y="32" style="font: 8px verdana;" text-anchor="middle">NO ICON</text>
+    <ellipse rx="20.5" ry="3.5" cx="32" cy="27" />
+    <path d="M11.5 27 11.5 36A20.5 3.5 0 0 0 52.5 36L52.5 27" />
+    <path d="M11.5 31.5A20.5 3.5 0 0 0 52.5 31.5" pathLength="41.5" stroke-dasharray="4 3.5 6.5 3.5 6.5 3.5 6.5 3.5 4" />
   </g>
 </svg>

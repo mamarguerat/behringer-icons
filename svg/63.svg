@@ -7,7 +7,13 @@
       fill: #000000;
     }
   </style>
-  <g id="icon" stroke-width="2" class="stroke" fill="none">
-    <text x="32" y="32" style="font: 8px verdana;" text-anchor="middle">NO ICON</text>
+  <g id="icon" stroke-width="2.25" class="stroke" fill="none">
+    <rect x="11.5" y="19.75" width="41" height="24.75" rx="1" />
+    <rect x="17" y="26" width="10.75" height="12.25" rx="1.75" />
+    <rect class="fill" stroke="none" x="20" y="29.25" width="5" height="6" />
+    <circle r="6.25" cx="40.75" cy="32" />
+    <circle class="fill" stroke="none" r="2.25" cx="40.75" cy="32" />
+    <circle class="fill" stroke="none" r="1.25" cx="32" cy="23.5" />
+    <circle class="fill" stroke="none" r="1.25" cx="32" cy="40.5" />
   </g>
 </svg>
