@@ -7,11 +7,11 @@
       fill: #000000;
     }
   </style>
-  <g id="icon" stroke-width="2" class="stroke" fill="none">
-    <circle fill="none" r="18" cx="32" cy="35" />
-    <circle fill="none" r="3" cx="32" cy="43.5" />
-    <circle fill="none" r="3" cx="23.5" cy="34.5" />
-    <circle fill="none" r="3" cx="40.5" cy="34.5" />
-    <path class="fill" d="M28 16A2 2 0 0136 16Z" />
+  <g id="icon" stroke-width="2.25" class="stroke" fill="none">
+    <circle fill="none" r="17.75" cx="32" cy="34.75" />
+    <circle fill="none" r="3.25" cx="32" cy="43.5" />
+    <circle fill="none" r="3.25" cx="23.5" cy="34.5" />
+    <circle fill="none" r="3.25" cx="40.25" cy="34.5" />
+    <path class="fill" d="M28 15.75A2 2 0 0136 15.75Z" />
   </g>
 </svg>

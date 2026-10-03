@@ -7,15 +7,15 @@
       fill: #000000;
     }
   </style>
-  <g id="icon" stroke-width="2" class="stroke" fill="none">
-    <rect fill="none" x="14" y="36.5" width="9" height="10" rx="2" />
-    <rect fill="none" x="27.5" y="27" width="9" height="10" rx="2" />
-    <rect fill="none" x="41" y="17.5" width="9" height="10" rx="2" />
-    <line fill="none" x1="18.5" y1="15" x2="18.5" y2="36.5" />
-    <line fill="none" x1="32" y1="15" x2="32" y2="27.5" />
-    <line fill="none" x1="45.5" y1="15" x2="45.5" y2="17.5" />
-    <line fill="none" x1="18.5" y1="46.5" x2="18.5" y2="49" />
-    <line fill="none" x1="32" y1="37.5" x2="32" y2="49" />
-    <line fill="none" x1="45.5" y1="27.5" x2="45.5" y2="49" />
+  <g id="icon" stroke-width="2.5" class="stroke" fill="none">
+    <rect fill="none" x="14.5" y="36.25" width="8" height="9.5" rx="2.5" />
+    <rect fill="none" x="28" y="27" width="8" height="9.5" rx="2.5" />
+    <rect fill="none" x="41.5" y="17.5" width="8" height="9.5" rx="2.5" />
+    <line fill="none" x1="18.5" y1="14.75" x2="18.5" y2="36.25" />
+    <line fill="none" x1="32" y1="14.75" x2="32" y2="27" />
+    <line fill="none" x1="45.5" y1="14.75" x2="45.5" y2="17.5" />
+    <line fill="none" x1="18.5" y1="45.75" x2="18.5" y2="49.25" />
+    <line fill="none" x1="32" y1="36.5" x2="32" y2="49.25" />
+    <line fill="none" x1="45.5" y1="27" x2="45.5" y2="49.25" />
   </g>
 </svg>

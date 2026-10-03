@@ -8,6 +8,10 @@
     }
   </style>
   <g id="icon" stroke-width="2" class="stroke" fill="none">
-    <text x="32" y="32" style="font: 8px verdana;" text-anchor="middle">NO ICON</text>
+    <path d="M13 24.5C13.5 20 15.5 19 20 19L33.75 19" stroke-width="3.5" />
+    <line x1="21" y1="24.5" x2="21" y2="45" stroke-width="3.5" />
+    <path class="fill" stroke="none" d="M19.25 29.5 33.75 29.5 30.5 33 19.25 33Z" />
+    <path class="fill" stroke="none" d="M47 17.25 51.25 17.25 32.6 45 28.35 45Z" />
+    <path class="fill" stroke="none" d="M31.5 17.25 35.75 17.25 52.6 45 48.35 45Z" />
   </g>
 </svg>

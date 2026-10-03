@@ -7,9 +7,9 @@
       fill: #000000;
     }
   </style>
-  <g id="icon" stroke-width="2" class="stroke" fill="none">
-    <circle fill="none" r="19" cx="32" cy="32" />
-    <circle fill="none" r="4" cx="39" cy="34" />
+  <g id="icon" stroke-width="2.25" class="stroke" fill="none">
+    <circle fill="none" r="18.75" cx="32" cy="32" />
+    <circle fill="none" r="4.25" cx="39.25" cy="34" />
     <rect transform="rotate(45)" class="fill" x="64" y="3" width="4" height="2" rx="0.5" />
     <rect transform="rotate(-45)" class="fill" x="-23" y="48" width="4" height="2" rx="0.5" />
   </g>

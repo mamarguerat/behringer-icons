@@ -7,14 +7,14 @@
       fill: #000000;
     }
   </style>
-  <g id="icon" stroke-width="2" class="stroke" fill="none">
+  <g id="icon" stroke-width="2.25" class="stroke" fill="none">
     <g transform="translate(0 0)" >
-      <rect fill="none" x="24" y="15" width="22" height="34" rx="1" />
-      <circle fill="none" stroke-width="1.5" r="2.5" cx="35" cy="22.5" />
-      <circle class="fill" r="2" cx="35" cy="36.5" />
-      <circle fill="none" stroke-width="2" r="7" cx="35" cy="36.5" />
-      <line fill="none" x1="15" y1="11" x2="15" y2="53" />
-      <line fill="none" x1="15" y1="32" x2="24" y2="32" />
+      <rect fill="none" x="24.75" y="15" width="22.75" height="34.5" rx="1.25" />
+      <circle fill="none" stroke-width="1.5" r="2.5" cx="36.25" cy="22.5" />
+      <circle class="fill" r="1" cx="36.25" cy="36.5" />
+      <circle fill="none" stroke-width="2" r="7" cx="36.25" cy="36.5" />
+      <line fill="none" x1="16.5" y1="11" x2="16.5" y2="53.5" />
+      <line fill="none" x1="16.5" y1="32.5" x2="24.75" y2="32.5" />
     </g>
   </g>
 </svg>

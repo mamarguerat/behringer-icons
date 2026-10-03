@@ -7,7 +7,14 @@
       fill: #000000;
     }
   </style>
-  <g id="icon" stroke-width="2" class="stroke" fill="none">
-    <text x="32" y="32" style="font: 8px verdana;" text-anchor="middle">NO ICON</text>
+  <g id="icon" stroke-width="2.25" class="stroke" fill="none">
+    <g transform="rotate(45 32 32)">
+    <ellipse rx="4.5" ry="2" cx="32" cy="9.5" />
+    <path d="M27.5 9.5 27.5 49.5A4.5 2 0 0 0 36.5 49.5L36.5 9.5" />
+    <path d="M27.5 13A4.5 1.5 0 0 0 36.5 13M27.5 16A4.5 1.5 0 0 0 36.5 16M27.5 19A4.5 1.5 0 0 0 36.5 19" />
+    <rect class="fill" stroke="none" x="30.75" y="28.25" width="2.5" height="6.5" />
+    <path d="M27.5 41A4.5 1.5 0 0 0 36.5 41" />
+    <line x1="32" y1="51.5" x2="32" y2="61" />
+    </g>
   </g>
 </svg>
